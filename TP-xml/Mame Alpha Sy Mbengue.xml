@@ -1,0 +1,29 @@
+<Syllabus>
+    <cours code="INF 4121">
+        <description>
+            <intitule>Outils cryptographique</intitule>
+          <UE>Informatique</UE>
+            <CTr>
+                <credit>6</credit>
+                <coefficient>2</coefficient>
+                <volumeHoraire>
+                    <TPE>30</TPE>
+                    <CM>15</CM>
+                    <TDTP>15<TDTP>
+                </volumeHoraire>
+            </CTr>
+            <semestre>1</semestre>
+            <niveau>Master 1</niveau>
+            <prerequis>developpement web et mobile,physique,reseau,mathematique,</prerequis>
+        </description>
+        <enseignants nombre="1">
+            <enseignant>
+                <prenom>El Hadj Modou </prenom>
+                <nom>Mboup</nom>
+                <adresseBureau>site Vcn, Batiment Administration UFR SET<adresseBureau>
+                <couriel>elmodou.mboup@univ-thies.sn</couriel>
+                <heureBureau>12h-14h</heureBureau>
+            </enseignant>
+        </enseignants>
+    </cours>
+</Syllabus>
